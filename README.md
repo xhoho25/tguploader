@@ -36,5 +36,5 @@ git push heroku master
 /banuser : quita acceso al bot de un usuario de telegram
 /getdb : Obten la base de datos donde se almacenan la info de los usarios en el bot
 ```
-### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://heroku.com/deploy?template=https://github.com/xhoho25/tguploader) 
+# DEploy To Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xhoho25/tguploader)
